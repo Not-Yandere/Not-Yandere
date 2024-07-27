@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamad
 - 👀 I’m interested in coding overall
-- 💞️ I’m looking to collaborate on making a kernel
+- 💞️ backed end development babyyyyyyyyyyy
 - 📫 How to reach me tg @not_yandere
 
 <!---
