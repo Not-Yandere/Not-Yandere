@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Hamad
-- 👀 I’m interested in coding overall
-- 💞️ backed end development babyyyyyyyyyyy
+- 👋 Yo it's yandere
+- ❇️ back-end dev. using php and laravel :3
 - 📫 How to reach me tg @not_yandere
 
 <!---
